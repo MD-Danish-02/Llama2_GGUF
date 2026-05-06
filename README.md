@@ -175,27 +175,13 @@ Through this project, I learned:
 
 # Google Colab Notebook
 
-Add your Google Colab notebook link here:
-
-```text
-[PASTE_YOUR_COLAB_NOTEBOOK_LINK_HERE](https://colab.research.google.com/drive/1e5vPF0n4WktP7qAzfvQNt45_xno4leua?usp=sharing)
-```
-
-Example:
-
-```text
-https://colab.research.google.com/drive/your_notebook_id
-```
+[Open in Google Colab](https://colab.research.google.com/drive/1e5vPF0n4WktP7qAzfvQNt45_xno4leua?usp=sharing)
 
 ---
 
 # GitHub Repository
 
-Add your GitHub repository link here:
-
-```text
-[PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE](https://github.com/MD-Danish-02/Llama2_GGUF)
-```
+[GitHub Repository](https://github.com/MD-Danish-02/Llama2_GGUF)
 
 ---
 
